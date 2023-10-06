@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "11 70 D3 DF",
+    "Info": "Cat Token",
+    "AllowedHosts": "ESP8266-RearDoor",
+    "result": true
+  },
+  {
+    "uid": "1A 22 B8 D2",
+    "Info": "Wife",
+    "AllowedHosts": "ESP8266-MainEntrance",
+    "result": false
+  },
+  {
+    "uid": "1E 1E 22 1F",
+    "Info": "Dog Token",
+    "AllowedHosts": "ESP8266-RearDoor",
+    "result": true
+  },
+  {
+    "uid": "FF 1A 94 2C",
+    "Info": "Master",
+    "AllowedHosts": "any",
+    "result": true
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "common": {
+    "name": "AccessControl",
+    "expert": true
+  },
+  "type": "channel",
+  "from": "system.adapter.admin.0",
+  "user": "system.user.admin",
+  "ts": 1696192203289,
+  "_id": "script.js.AccessControl"
+}
