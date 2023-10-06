@@ -30,7 +30,7 @@ IRQ         -                 -             -               -
 #include <SPI.h>      
 #include <MFRC522.h>  
 
-// uncomment to save memory
+// comment to save memory and deactivate debug info
 #define DEBUG
 
 #include "config.h"
