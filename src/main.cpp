@@ -1,5 +1,5 @@
 /*
-Project:  RFID Access with ESP8266 / ESP32 und Arduinos
+Project:  ESP8266-RFID-RC522-IOBROKER-MQTT-AccessSystem
 Author:   Marc-Oliver Blumenauer @ http://projekte.kobuleti.de
 Date:     Created 10/06/23
 Version:  V1.0
